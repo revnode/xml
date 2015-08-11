@@ -1,4 +1,4 @@
-<?
+<?php
 
 class xml implements Iterator, ArrayAccess
 {
@@ -152,7 +152,17 @@ class xml implements Iterator, ArrayAccess
 					{
 						case '>':
 							$this->index += 1;
-							$this->syntax = 'syntax_tag_back_end';
+							if($this->syntax == 'syntax_attribute_name')
+							{
+								$this->xml		= substr($this->xml, $this->index);
+								$this->index	= 0;
+								$length			= strlen($this->xml);
+								$this->syntax	= 'syntax_tag_short';
+							}
+							else
+							{
+								$this->syntax = 'syntax_tag_back_end';
+							}
 							break;
 					}
 					break;
@@ -343,6 +353,12 @@ class xml implements Iterator, ArrayAccess
 		}
 		
 		$this->syntax = 'syntax_tag_value';
+	}
+	
+	private function syntax_tag_short()
+	{
+		$this->syntax_tag_front_end();
+		$this->syntax_tag_back_end();
 	}
 	
 	private function syntax_tag_back_start()

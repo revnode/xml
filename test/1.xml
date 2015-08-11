@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:re="http://www.loc.gov/mets/profiles/recordedEvent" xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="loc.natlib.ihas.200031106" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd" PROFILE="lc:recordedEvent">
+	<mets:metsHdr LASTMODDATE="2014-12-22T13:11:17.868-05:00" />
+	<mets:dmdSec ID="MODS12">
+		<mets:mdWrap MDTYPE="MODS">
+			<mets:xmlData>
+				<mods:mods version="3.4">
+					<mods:titleInfo>
+						<mods:title>Great conversations: the pianists</mods:title>
+					</mods:titleInfo>
+					<mods:name>
+						<mods:namePart>Istomin, Eugene</mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">Host</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					<mods:name>
+						<mods:namePart>Bronfman, Yefim</mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					<mods:name>
+						<mods:namePart>Ax, Emanuel</mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					<mods:name>
+						<mods:namePart>Fleisher, Leon</mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					<mods:name>
+						<mods:namePart>Rosen, Charles</mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					<mods:name>
+						<mods:namePart>Graffman, Gary</mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					<mods:name>
+						<mods:namePart>Rosen, Peter</mods:namePart>
+						<mods:role>
+							<mods:roleTerm authority="marcrelator" type="text">Producer</mods:roleTerm>
+						</mods:role>
+					</mods:name>
+					<mods:typeOfResource>moving image</mods:typeOfResource>
+					<mods:originInfo>
+						<mods:place>
+							<mods:placeTerm type="text">New York</mods:placeTerm>
+						</mods:place>
+						<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+						<mods:dateIssued>2005</mods:dateIssued>
+						<mods:issuance>monographic</mods:issuance>
+					</mods:originInfo>
+					<mods:physicalDescription>
+						<mods:form authority="gmd">videorecording</mods:form>
+						<mods:reformattingQuality>access</mods:reformattingQuality>
+						<mods:extent>1 digibeta videotape; duration: 60 min., 20 sec.</mods:extent>
+						<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+					</mods:physicalDescription>
+					<mods:targetAudience authority="marctarget">adult</mods:targetAudience>
+					<mods:note type="Content">Eugene Istomin and his fellow pianists Emanuel Ax, Yefim Bronfman,        Leon Fleisher, Gary Graffman, and Charles Rosen offer insights into the world of the piano        as they discuss performance technique and adventures in recording, make humorous        observations about their colleagues, and tell inside jokes about great musical icons. The        conversations were filmed in the elegant surroundings of the Membersâ€™ Room in the Library of        Congressâ€™ Thomas Jefferson Building.</mods:note>
+					<mods:note type="bibliographic history">Program is early edited version and contains the title        "The green room," which was later changed to "Great conversations."</mods:note>
+					<mods:note type="bibliographic history">"Program one."</mods:note>
+					<mods:note type="bibliographic history">In opening credits: "From the Library of Congress,        Washington, D.C."</mods:note>
+					<mods:note type="bibliographic history">Additional credits: For the Music Division of the        Library of Congress: Jon Newsom, chief; Jan Lauridsen, Assist. Chief, Ruth Foss, Program        specialist.</mods:note>
+					<mods:note type="bibliographic history">Library of Congress extended version.</mods:note>
+					<mods:note type="Copyright Notice">Copyright Library of Congress. This program was made possible        through the courtesy of Eugene Istomin. Artists' appearances are courtesy of themselves:        Emanuel Ax, Yefim Bronfman, Leon Fleisher, Gary Graffman, and Charles Rosen.</mods:note>
+					<mods:note type="Copyright Notice">Copyright Library of Congress. This program was made possible through the courtesy of Eugene Istomin.  Artists' appearances are courtesy of themselves: Emanuel Ax, Yefim Bronfman, Leon Fleisher, Gary Graffman, and Charles Rosen.</mods:note>
+					<mods:relatedItem ID="DMD_seg01" type="constituent">
+						<mods:titleInfo>
+							<mods:title>Opening credits; and The early years</mods:title>
+						</mods:titleInfo>
+						<mods:typeOfResource>moving image</mods:typeOfResource>
+						<mods:originInfo>
+							<mods:place>
+								<mods:placeTerm type="text">New York</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+							<mods:dateIssued>2005</mods:dateIssued>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form>video</mods:form>
+							<mods:reformattingQuality>access</mods:reformattingQuality>
+							<mods:extent>11:53</mods:extent>
+							<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+						</mods:physicalDescription>
+						<mods:note type="Content">Istomin introduces his guests and initiates a conversation on the            influences that made each become a pianist. Rosen and Graffman share anecdotes about            playing for Leopold Godowsky.</mods:note>
+					</mods:relatedItem>
+					<mods:relatedItem ID="DMD_seg02" type="constituent">
+						<mods:titleInfo>
+							<mods:title>Roots</mods:title>
+						</mods:titleInfo>
+						<mods:typeOfResource>moving image</mods:typeOfResource>
+						<mods:originInfo>
+							<mods:place>
+								<mods:placeTerm type="text">New York</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+							<mods:dateIssued>2005</mods:dateIssued>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form>video</mods:form>
+							<mods:reformattingQuality>access</mods:reformattingQuality>
+							<mods:extent>7:33</mods:extent>
+							<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+						</mods:physicalDescription>
+						<mods:note type="Content">Istomin and his guests talk about the roots of various piano            traditions and national schools of piano technique.</mods:note>
+					</mods:relatedItem>
+					<mods:relatedItem ID="DMD_seg03" type="constituent">
+						<mods:titleInfo>
+							<mods:title>Performance</mods:title>
+						</mods:titleInfo>
+						<mods:typeOfResource>moving image</mods:typeOfResource>
+						<mods:originInfo>
+							<mods:place>
+								<mods:placeTerm type="text">New York</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+							<mods:dateIssued>2005</mods:dateIssued>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form>video</mods:form>
+							<mods:reformattingQuality>access</mods:reformattingQuality>
+							<mods:extent>9:55</mods:extent>
+							<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+						</mods:physicalDescription>
+						<mods:note type="Content">Istomin and his guests share opinions on twentieth-century            pianists who returned to the Urtext as a basis for interpretation as well views on those            who exercise an excess of bodily motion in performance.</mods:note>
+					</mods:relatedItem>
+					<mods:relatedItem ID="DMD_seg04" type="constituent">
+						<mods:titleInfo>
+							<mods:title>Tradition</mods:title>
+						</mods:titleInfo>
+						<mods:typeOfResource>moving image</mods:typeOfResource>
+						<mods:originInfo>
+							<mods:place>
+								<mods:placeTerm type="text">New York</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+							<mods:dateIssued>2005</mods:dateIssued>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form>video</mods:form>
+							<mods:reformattingQuality>access</mods:reformattingQuality>
+							<mods:extent>8:34</mods:extent>
+							<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+						</mods:physicalDescription>
+						<mods:note type="Content">Istomin reminisces about the origins of the first recording Sergei            Rachmaninoffâ€™s Piano Concerto No. 4 in D minor, Op. 40. Fleischer and Graffman talk            about pedagogy.</mods:note>
+					</mods:relatedItem>
+					<mods:relatedItem ID="DMD_seg05" type="constituent">
+						<mods:titleInfo>
+							<mods:title>Interpretation</mods:title>
+						</mods:titleInfo>
+						<mods:typeOfResource>moving image</mods:typeOfResource>
+						<mods:originInfo>
+							<mods:place>
+								<mods:placeTerm type="text">New York</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+							<mods:dateIssued>2005</mods:dateIssued>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form>video</mods:form>
+							<mods:reformattingQuality>access</mods:reformattingQuality>
+							<mods:extent>7:58</mods:extent>
+							<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+						</mods:physicalDescription>
+						<mods:note type="Content">Istomin and his guests discuss what it means to interpret a piece            of music.</mods:note>
+					</mods:relatedItem>
+					<mods:relatedItem ID="DMD_seg06" type="constituent">
+						<mods:titleInfo>
+							<mods:title>Tone</mods:title>
+						</mods:titleInfo>
+						<mods:typeOfResource>moving image</mods:typeOfResource>
+						<mods:originInfo>
+							<mods:place>
+								<mods:placeTerm type="text">New York</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+							<mods:dateIssued>2005</mods:dateIssued>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form>video</mods:form>
+							<mods:reformattingQuality>access</mods:reformattingQuality>
+							<mods:extent>11:25</mods:extent>
+							<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+						</mods:physicalDescription>
+						<mods:note type="Content">Istomin plays a portion of Rachmaninoffâ€™s Piano Concerto No. 4,            which leads to a discussion of tone.</mods:note>
+					</mods:relatedItem>
+					<mods:relatedItem ID="DMD_seg07" type="constituent">
+						<mods:titleInfo>
+							<mods:title>Epilogue; and Closing credits</mods:title>
+						</mods:titleInfo>
+						<mods:typeOfResource>moving image</mods:typeOfResource>
+						<mods:originInfo>
+							<mods:place>
+								<mods:placeTerm type="text">New York</mods:placeTerm>
+							</mods:place>
+							<mods:publisher>Peter Rosen Productions, Inc.</mods:publisher>
+							<mods:dateIssued>2005</mods:dateIssued>
+						</mods:originInfo>
+						<mods:physicalDescription>
+							<mods:form>video</mods:form>
+							<mods:reformattingQuality>access</mods:reformattingQuality>
+							<mods:extent>3:02</mods:extent>
+							<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+						</mods:physicalDescription>
+						<mods:note type="Content">Istomin provides an epilogue to the discussions by paying homage            to other great pianists, including Ignace Paderweski, Artur Schnabel, Rudolf Serkin,            Claudio Arrau, and Dame Myra Hess.</mods:note>
+					</mods:relatedItem>
+					<mods:identifier displayLabel="IHASDigitalID" type="local">200031106</mods:identifier>
+					<mods:identifier displayLabel="IHASMODSID" type="local">23601</mods:identifier>
+					<mods:location>
+						<mods:physicalLocation>Music Division</mods:physicalLocation>
+						<mods:physicalLocation authority="marcorg">DLC</mods:physicalLocation>
+					</mods:location>
+					<mods:recordInfo>
+						<mods:recordContentSource>IHAS</mods:recordContentSource>
+						<mods:recordChangeDate encoding="marc">051125</mods:recordChangeDate>
+						<mods:recordIdentifier source="IHAS">loc.natlib.ihas.200031106</mods:recordIdentifier>
+					</mods:recordInfo>
+					<mods:identifier type="membership">greatconv</mods:identifier>
+					<mods:identifier type="membership">Great Conversations in Music</mods:identifier>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Great Conversations in Music</mods:title>
+						</mods:titleInfo>
+						<mods:location>
+							<mods:url>http://lcweb2.loc.gov/diglib/ihas/html/greatconversations/great-home.html</mods:url>
+						</mods:location>
+					</mods:relatedItem>
+					<mods:relatedItem type="host">
+						<mods:titleInfo>
+							<mods:title>Performing Arts Encyclopedia</mods:title>
+						</mods:titleInfo>
+						<mods:location>
+							<mods:url>http://www.loc.gov/performingarts</mods:url>
+						</mods:location>
+					</mods:relatedItem>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:amdSec>
+		<mets:rightsMD ID="RIGHTS_">
+			<mets:mdWrap MDTYPE="OTHER">
+				<mets:xmlData>
+					<rights:RightsDeclarationMD>
+						<rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+							<rights:Permissions DISPLAY="true" />
+							<rights:Constraints CONSTRAINTTYPE="TIME">
+								<rights:ConstraintDescription />
+							</rights:Constraints>
+							<rights:Constraints CONSTRAINTTYPE="OTHER">
+								<rights:ConstraintDescription />
+							</rights:Constraints>
+						</rights:Context>
+					</rights:RightsDeclarationMD>
+				</mets:xmlData>
+			</mets:mdWrap>
+		</mets:rightsMD>
+	</mets:amdSec>
+	<mets:fileSec>
+		<mets:fileGrp USE="MASTER">
+			<mets:file ID="Fd27323e40" GROUPID="G1" MIMETYPE="image/tiff" SIZE="2091496">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/illustration/image/0001.tif" />
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp USE="SERVICE">
+			<mets:file ID="Fd27323e129" GROUPID="G1" MIMETYPE="image/jpeg" SIZE="160330">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/illustration/image/0001v.jpg" />
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp USE="MASTER">
+			<mets:file ID="Fd27323e103" MIMETYPE="text/xml" SIZE="66090">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/text/0001.xml" />
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp USE="MASTER">
+			<mets:file ID="Fd27323e48" GROUPID="G1" MIMETYPE="video/mpeg" SIZE="429246468">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/seg01/video/0001.mpg" />
+			</mets:file>
+			<mets:file ID="Fd27323e56" GROUPID="G1" MIMETYPE="video/mpeg" SIZE="164853764">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/seg02/video/0001.mpg" />
+			</mets:file>
+			<mets:file ID="Fd27323e64" GROUPID="G1" MIMETYPE="video/mpeg" SIZE="216201220">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/seg03/video/0001.mpg" />
+			</mets:file>
+			<mets:file ID="Fd27323e72" GROUPID="G1" MIMETYPE="video/mpeg" SIZE="186775556">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/seg04/video/0001.mpg" />
+			</mets:file>
+			<mets:file ID="Fd27323e81" GROUPID="G1" MIMETYPE="video/mpeg" SIZE="173621252">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/seg05/video/0001.mpg" />
+			</mets:file>
+			<mets:file ID="Fd27323e89" GROUPID="G1" MIMETYPE="video/mpeg" SIZE="248993796">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/seg06/video/0001.mpg" />
+			</mets:file>
+			<mets:file ID="Fd27323e97" GROUPID="G1" MIMETYPE="video/mpeg" SIZE="113971967">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/warehouse/greatconv/200031106/seg07/video/0001.mpg" />
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp USE="SERVICE">
+			<mets:file ID="Fd27323e137" GROUPID="Gvideo" MIMETYPE="application/x-pn-realaudio" SIZE="134">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/seg01/video/0001.ram" />
+			</mets:file>
+			<mets:file ID="Fd27323e145" GROUPID="Gvideo" MIMETYPE="application/x-pn-realaudio" SIZE="134">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/seg02/video/0001.ram" />
+			</mets:file>
+			<mets:file ID="Fd27323e153" GROUPID="Gvideo" MIMETYPE="application/x-pn-realaudio" SIZE="134">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/seg03/video/0001.ram" />
+			</mets:file>
+			<mets:file ID="Fd27323e161" GROUPID="Gvideo" MIMETYPE="application/x-pn-realaudio" SIZE="134">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/seg04/video/0001.ram" />
+			</mets:file>
+			<mets:file ID="Fd27323e170" GROUPID="Gvideo" MIMETYPE="application/x-pn-realaudio" SIZE="134">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/seg05/video/0001.ram" />
+			</mets:file>
+			<mets:file ID="Fd27323e178" GROUPID="Gvideo" MIMETYPE="application/x-pn-realaudio" SIZE="134">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/seg06/video/0001.ram" />
+			</mets:file>
+			<mets:file ID="Fd27323e186" GROUPID="Gvideo" MIMETYPE="application/x-pn-realaudio" SIZE="134">
+				<mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb2.loc.gov/natlib/ihas/service/greatconv/200031106/seg07/video/0001.ram" />
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap>
+		<mets:div DMDID="MODS1" TYPE="re:recordedEvent">
+			<mets:div TYPE="re:segment" DMDID="DMD_seg01">
+				<mets:div TYPE="re:video">
+					<mets:fptr FILEID="Fd27323e48" />
+					<mets:fptr FILEID="Fd27323e137" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:segment" DMDID="DMD_seg02">
+				<mets:div TYPE="re:video">
+					<mets:fptr FILEID="Fd27323e56" />
+					<mets:fptr FILEID="Fd27323e145" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:segment" DMDID="DMD_seg03">
+				<mets:div TYPE="re:video">
+					<mets:fptr FILEID="Fd27323e64" />
+					<mets:fptr FILEID="Fd27323e153" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:segment" DMDID="DMD_seg04">
+				<mets:div TYPE="re:video">
+					<mets:fptr FILEID="Fd27323e72" />
+					<mets:fptr FILEID="Fd27323e161" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:segment" DMDID="DMD_seg05">
+				<mets:div TYPE="re:video">
+					<mets:fptr FILEID="Fd27323e81" />
+					<mets:fptr FILEID="Fd27323e170" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:segment" DMDID="DMD_seg06">
+				<mets:div TYPE="re:video">
+					<mets:fptr FILEID="Fd27323e89" />
+					<mets:fptr FILEID="Fd27323e178" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:segment" DMDID="DMD_seg07">
+				<mets:div TYPE="re:video">
+					<mets:fptr FILEID="Fd27323e97" />
+					<mets:fptr FILEID="Fd27323e186" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:illustration">
+				<mets:div TYPE="re:image">
+					<mets:fptr FILEID="Fd27323e40" />
+					<mets:fptr FILEID="Fd27323e129" />
+				</mets:div>
+			</mets:div>
+			<mets:div TYPE="re:text">
+				<mets:fptr FILEID="Fd27323e103" />
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+</mets:mets>

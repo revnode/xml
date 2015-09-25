@@ -43,7 +43,7 @@ class xml implements Iterator, ArrayAccess
 	public function __toString()
 	{
 		return (
-			isset($this->declaration)
+			(isset($this->declaration)&&trim($this->declaration))
 			?
 			"<?{$this->declaration}?>"
 			:
